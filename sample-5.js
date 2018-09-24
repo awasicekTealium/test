@@ -1,0 +1,1 @@
+var sample5 = "test";
