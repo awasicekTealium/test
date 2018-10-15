@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71094ae-a43f-4f92-9e66-fa5b519c4fdb" name="Default Changelist" comment="" />
+    <list default="true" id="f71094ae-a43f-4f92-9e66-fa5b519c4fdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,6 +17,7 @@
     <session id="1565625743">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -47,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/sample-1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" lean-forward="true" selection-end-column="21" />
+              <caret column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -65,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/sample-3.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -83,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/sample-5.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -110,12 +113,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-3664" />
-    <option name="y" value="81" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1400" />
+    <option name="y" value="66" />
     <option name="width" value="1400" />
-    <option name="height" value="813" />
+    <option name="height" value="805" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -162,16 +166,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537806910011</updated>
-      <workItem from="1537806911312" duration="44000" />
+      <workItem from="1537806911312" duration="247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44000" />
+    <option name="totallyTimeSpent" value="247000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3664" y="81" width="1400" height="813" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1400" y="66" width="1400" height="805" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
@@ -202,7 +205,7 @@
     <entry file="file://$PROJECT_DIR$/sample-1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="21" lean-forward="true" selection-end-column="21" />
+          <caret column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -216,7 +219,7 @@
     <entry file="file://$PROJECT_DIR$/sample-3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -230,7 +233,7 @@
     <entry file="file://$PROJECT_DIR$/sample-5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
