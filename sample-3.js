@@ -1,1 +1,1 @@
-var sample3 = "test";
+var sample3 = "test modified";
